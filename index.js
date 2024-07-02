@@ -18,3 +18,4 @@ function wrapAdjective(visualFlair = '*') {
 
 wrapAdjective("||")("amazing")
 
+
